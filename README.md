@@ -109,4 +109,4 @@ This tool is for **educational purposes**. Never test passwords you don't own.
 
 ## Author
 
-Your Name — [GitHub Profile](https://github.com/YOUR_USERNAME)
+Your Name — Zuhair Al Midani Shimar 
